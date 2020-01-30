@@ -1,3 +1,10 @@
+### Version 1.4.0
+- Updated advenced regex: improved support for JSDoc-like comments
+- Update .github/FUNDING.yml
+- Readme: reorganized
+- Added support for dynamic decorators that use `$0`, `$1` etc. placeholders
+- Minified some resources
+
 ### Version 1.3.4
 - Ensuring curly braces in regexes are properly escaped
 - Fixed an exception
